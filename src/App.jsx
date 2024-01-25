@@ -42,6 +42,7 @@ function App() {
   },[length,numberAllowed,charAllowed,passwordGenerator])
   return (
     <>
+      <h1>created by himanshu</h1>
     <div 
           className='w-full  max-w-2xl mx-auto shadow-md text-md text-center align-middle text-white bg-gray-700 px-4 my-8  rounded-lg'>
       <h1 className='text-white my-1'>Password Generator</h1>
